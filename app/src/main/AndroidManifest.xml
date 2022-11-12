@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.techtown.book">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/aaa"
+        android:label="함께 읽는 자연물 동화"
+        android:roundIcon="@drawable/aaa"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Book">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuActivity"
+            android:label="세잎이의 꿈">
+        </activity>
+        <activity android:name=".Menu2Activity"
+            android:label="똥그리의 꿈">
+        </activity>
+        <activity android:name=".Menu3Activity"
+            android:label="달라도 괜찮아">
+        </activity>
+        <activity android:name=".Menu4Activity"
+            android:label="단풍이의 모험">
+        </activity>
+        <activity android:name=".Menu5Activity"
+            android:label="나는 우리집이 싫어!">
+        </activity>
+    </application>
+
+</manifest>
