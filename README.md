@@ -12,16 +12,6 @@
 
 ### 제작 작품
 
-##### 동화책
-![image](https://user-images.githubusercontent.com/81849194/201460179-0d9ce408-0d3b-4678-ae82-ddc17ea16315.png)<br>
-직접 만든 동화책을 책으로 출판
-
-##### 3D프린터 장난감
-![image](https://user-images.githubusercontent.com/81849194/201460187-af129ab4-03dc-4807-be9d-ee95a65120b3.png)
-![image](https://user-images.githubusercontent.com/81849194/201460194-b3124fc0-34d5-4841-8a6f-d5d8aa27b644.png)<br>
-
-3D 프린터를 이용한 장난감 출력
-
 ##### 어플
 ![image](https://user-images.githubusercontent.com/81849194/201460203-a1267211-b89e-4883-8c4f-7277d4f59596.png)<br>
 
